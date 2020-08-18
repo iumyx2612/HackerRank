@@ -1,0 +1,7 @@
+E:\Work work\MS Visual\Work\HackerRank\Simple Array Sum\Test\bin\Debug\Test.exe.config
+E:\Work work\MS Visual\Work\HackerRank\Simple Array Sum\Test\bin\Debug\Test.exe
+E:\Work work\MS Visual\Work\HackerRank\Simple Array Sum\Test\bin\Debug\Test.pdb
+E:\Work work\MS Visual\Work\HackerRank\Simple Array Sum\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\Work work\MS Visual\Work\HackerRank\Simple Array Sum\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\Work work\MS Visual\Work\HackerRank\Simple Array Sum\Test\obj\Debug\Test.exe
+E:\Work work\MS Visual\Work\HackerRank\Simple Array Sum\Test\obj\Debug\Test.pdb

@@ -1,0 +1,7 @@
+E:\Work work\MS Visual\Work\HackerRank\PickingNumbers\bin\Debug\PickingNumbers.exe.config
+E:\Work work\MS Visual\Work\HackerRank\PickingNumbers\bin\Debug\PickingNumbers.exe
+E:\Work work\MS Visual\Work\HackerRank\PickingNumbers\bin\Debug\PickingNumbers.pdb
+E:\Work work\MS Visual\Work\HackerRank\PickingNumbers\obj\Debug\PickingNumbers.csprojAssemblyReference.cache
+E:\Work work\MS Visual\Work\HackerRank\PickingNumbers\obj\Debug\PickingNumbers.csproj.CoreCompileInputs.cache
+E:\Work work\MS Visual\Work\HackerRank\PickingNumbers\obj\Debug\PickingNumbers.exe
+E:\Work work\MS Visual\Work\HackerRank\PickingNumbers\obj\Debug\PickingNumbers.pdb

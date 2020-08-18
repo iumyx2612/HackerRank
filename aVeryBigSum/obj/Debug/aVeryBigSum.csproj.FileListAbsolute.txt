@@ -1,0 +1,7 @@
+E:\Work work\MS Visual\Work\HackerRank\aVeryBigSum\bin\Debug\aVeryBigSum.exe.config
+E:\Work work\MS Visual\Work\HackerRank\aVeryBigSum\bin\Debug\aVeryBigSum.exe
+E:\Work work\MS Visual\Work\HackerRank\aVeryBigSum\bin\Debug\aVeryBigSum.pdb
+E:\Work work\MS Visual\Work\HackerRank\aVeryBigSum\obj\Debug\aVeryBigSum.csprojAssemblyReference.cache
+E:\Work work\MS Visual\Work\HackerRank\aVeryBigSum\obj\Debug\aVeryBigSum.csproj.CoreCompileInputs.cache
+E:\Work work\MS Visual\Work\HackerRank\aVeryBigSum\obj\Debug\aVeryBigSum.exe
+E:\Work work\MS Visual\Work\HackerRank\aVeryBigSum\obj\Debug\aVeryBigSum.pdb

@@ -1,0 +1,7 @@
+E:\Work work\MS Visual\Work\HackerRank\TimeCoversion\bin\Debug\TimeCoversion.exe.config
+E:\Work work\MS Visual\Work\HackerRank\TimeCoversion\bin\Debug\TimeCoversion.exe
+E:\Work work\MS Visual\Work\HackerRank\TimeCoversion\bin\Debug\TimeCoversion.pdb
+E:\Work work\MS Visual\Work\HackerRank\TimeCoversion\obj\Debug\TimeCoversion.csprojAssemblyReference.cache
+E:\Work work\MS Visual\Work\HackerRank\TimeCoversion\obj\Debug\TimeCoversion.csproj.CoreCompileInputs.cache
+E:\Work work\MS Visual\Work\HackerRank\TimeCoversion\obj\Debug\TimeCoversion.exe
+E:\Work work\MS Visual\Work\HackerRank\TimeCoversion\obj\Debug\TimeCoversion.pdb

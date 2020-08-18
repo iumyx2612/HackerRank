@@ -1,0 +1,7 @@
+E:\Work work\MS Visual\Work\HackerRank\FindDigits\obj\Debug\FindDigits.csprojAssemblyReference.cache
+E:\Work work\MS Visual\Work\HackerRank\FindDigits\obj\Debug\FindDigits.csproj.CoreCompileInputs.cache
+E:\Work work\MS Visual\Work\HackerRank\FindDigits\bin\Debug\FindDigits.exe.config
+E:\Work work\MS Visual\Work\HackerRank\FindDigits\bin\Debug\FindDigits.exe
+E:\Work work\MS Visual\Work\HackerRank\FindDigits\bin\Debug\FindDigits.pdb
+E:\Work work\MS Visual\Work\HackerRank\FindDigits\obj\Debug\FindDigits.exe
+E:\Work work\MS Visual\Work\HackerRank\FindDigits\obj\Debug\FindDigits.pdb

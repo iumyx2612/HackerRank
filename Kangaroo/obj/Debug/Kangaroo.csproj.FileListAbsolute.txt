@@ -1,0 +1,7 @@
+E:\Work work\MS Visual\Work\HackerRank\Kangaroo\bin\Debug\Kangaroo.exe.config
+E:\Work work\MS Visual\Work\HackerRank\Kangaroo\bin\Debug\Kangaroo.exe
+E:\Work work\MS Visual\Work\HackerRank\Kangaroo\bin\Debug\Kangaroo.pdb
+E:\Work work\MS Visual\Work\HackerRank\Kangaroo\obj\Debug\Kangaroo.csprojAssemblyReference.cache
+E:\Work work\MS Visual\Work\HackerRank\Kangaroo\obj\Debug\Kangaroo.csproj.CoreCompileInputs.cache
+E:\Work work\MS Visual\Work\HackerRank\Kangaroo\obj\Debug\Kangaroo.exe
+E:\Work work\MS Visual\Work\HackerRank\Kangaroo\obj\Debug\Kangaroo.pdb

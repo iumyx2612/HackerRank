@@ -1,0 +1,7 @@
+E:\Work work\MS Visual\Work\HackerRank\BirthdayChocolate\bin\Debug\BirthdayChocolate.exe.config
+E:\Work work\MS Visual\Work\HackerRank\BirthdayChocolate\bin\Debug\BirthdayChocolate.exe
+E:\Work work\MS Visual\Work\HackerRank\BirthdayChocolate\bin\Debug\BirthdayChocolate.pdb
+E:\Work work\MS Visual\Work\HackerRank\BirthdayChocolate\obj\Debug\BirthdayChocolate.csprojAssemblyReference.cache
+E:\Work work\MS Visual\Work\HackerRank\BirthdayChocolate\obj\Debug\BirthdayChocolate.csproj.CoreCompileInputs.cache
+E:\Work work\MS Visual\Work\HackerRank\BirthdayChocolate\obj\Debug\BirthdayChocolate.exe
+E:\Work work\MS Visual\Work\HackerRank\BirthdayChocolate\obj\Debug\BirthdayChocolate.pdb
